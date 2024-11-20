@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nandita2002/student-management-system-sms-.git/static/css/main.3d8d3be8.css",
+    "main.js": "/Nandita2002/student-management-system-sms-.git/static/js/main.a6ce0964.js",
+    "static/media/students.jpg": "/Nandita2002/student-management-system-sms-.git/static/media/students.5ff1578c7b009b9e445f.jpg",
+    "static/media/designlogin.jpg": "/Nandita2002/student-management-system-sms-.git/static/media/designlogin.062b2fa24f9fb13c324c.jpg",
+    "static/media/subjects.svg": "/Nandita2002/student-management-system-sms-.git/static/media/subjects.013b9ea5daf1ce262cdf1faf054c2b50.svg",
+    "static/media/assignment.svg": "/Nandita2002/student-management-system-sms-.git/static/media/assignment.bc61fe3453a587ff7d3028a4494ad169.svg",
+    "static/media/classroom.png": "/Nandita2002/student-management-system-sms-.git/static/media/classroom.f472ff2cd754d14669f3.png",
+    "static/media/time.svg": "/Nandita2002/student-management-system-sms-.git/static/media/time.4385c93898939eb79375d3cdc30644aa.svg",
+    "index.html": "/Nandita2002/student-management-system-sms-.git/index.html",
+    "main.3d8d3be8.css.map": "/Nandita2002/student-management-system-sms-.git/static/css/main.3d8d3be8.css.map",
+    "main.a6ce0964.js.map": "/Nandita2002/student-management-system-sms-.git/static/js/main.a6ce0964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8d3be8.css",
+    "static/js/main.a6ce0964.js"
+  ]
+}
